@@ -9,7 +9,7 @@ const about = {
   name: 'Ethan Battani',
   role: 'Full Stack Engineer',
   description:
-    'Hi, Im Ethan. A full stack developer living in Denver Colorado. I recently moved here with the intention of creating a new life and new career path for myself. Feel free to browse and check out some of my recent projects below. I graduated from Grand Valley State University with a Bachelors in Public and Non-Profit Administration and a Business minor. My intention was to work for a non profit organization with the intention of creating and running my own. While running an organization is still a goal of mine. The tech industry provides more opportunity and work-life balance.',
+    'Hi, Im Ethan. Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting edge development tools and procedures. Adept in overseeing the progress of operations, and monitoring cross-company projects. Experienced in leading staff members and evaluating project progress to achieve results in a timely manner.  Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.',
   resume: 'https://drive.google.com/file/d/1MrAySzOAume2v_CCLvBo1A6bmjkkpZ-y/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/ethan-battani-92158264/',
