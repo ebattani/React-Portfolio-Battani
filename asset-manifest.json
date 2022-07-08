@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PORTFOLIO-BATTANI/static/css/main.3abf9a59.chunk.css",
+    "main.js": "/PORTFOLIO-BATTANI/static/js/main.568c6f8b.chunk.js",
+    "main.js.map": "/PORTFOLIO-BATTANI/static/js/main.568c6f8b.chunk.js.map",
+    "runtime-main.js": "/PORTFOLIO-BATTANI/static/js/runtime-main.b153eea5.js",
+    "runtime-main.js.map": "/PORTFOLIO-BATTANI/static/js/runtime-main.b153eea5.js.map",
+    "static/js/2.635a20cd.chunk.js": "/PORTFOLIO-BATTANI/static/js/2.635a20cd.chunk.js",
+    "static/js/2.635a20cd.chunk.js.map": "/PORTFOLIO-BATTANI/static/js/2.635a20cd.chunk.js.map",
+    "index.html": "/PORTFOLIO-BATTANI/index.html",
+    "static/css/main.3abf9a59.chunk.css.map": "/PORTFOLIO-BATTANI/static/css/main.3abf9a59.chunk.css.map",
+    "static/js/2.635a20cd.chunk.js.LICENSE.txt": "/PORTFOLIO-BATTANI/static/js/2.635a20cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b153eea5.js",
+    "static/js/2.635a20cd.chunk.js",
+    "static/css/main.3abf9a59.chunk.css",
+    "static/js/main.568c6f8b.chunk.js"
+  ]
+}
